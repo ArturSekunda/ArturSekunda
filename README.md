@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there! 👋 I'm Artur
 
-<!--
-**ArturSekunda/ArturSekunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
-Here are some ideas to get you started:
+Game development enthusiast focused on learning C++ and project architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 What I'm Working On
+- Building games from scratch
+- Learning C++ programming fundamentals and advanced concepts
+- Understanding large-scale project structure and organization
+- Mastering build systems and project architecture
+
+## 🚀 Current Project: NotSimpleGame
+
+**2D RPG Game** built from scratch in C++
+
+**Status:** Early development - creating debugging tools  
+**Next Steps:** Implementing core mechanics (inventory system, weapon systems, etc.)
+
+**Tech Stack:**
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** - Core language
+- ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white) **SFML** - Graphics & multimedia
+- ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) **CMake** - Build system
+- **TGUI** - GUI library
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Tools:**  
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CodeScene](https://img.shields.io/badge/CodeScene-00B4AB?style=flat-square&logo=codescene&logoColor=white)
+
+## 📚 Current Learning Goals
+- 🎯 Game engine architecture
+- 💡 C++ best practices & modern standards
+- 📁 Project file organization and structure
+- 🔧 Build configuration and dependency management
+
+---
+
+*Learning by building, one game at a time* 🚀
