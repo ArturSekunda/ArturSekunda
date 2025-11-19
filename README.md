@@ -19,7 +19,7 @@ Game development enthusiast focused on learning C++ and project architecture.
 - ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white) **SFML** - Graphics & multimedia
 - ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) **CMake** - Build system
 - **TGUI** - GUI library
-- ![SQLite]([https://sqlite.org/](https://img.shields.io/badge/SQLite-064F8C?style=flat-square&logo=sqlite&logoColor=white)) **SQLite** - Save system
+- **SQLite** - Save system
 
 ## Tech Stack
 
