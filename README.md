@@ -4,11 +4,6 @@
 
 Game development enthusiast focused on learning Game Development and project architecture.
 
-##  What I'm Working On
-- Souls like game in Unreal Engine 5.7.
-
-## Current Project: (Private) UE Game
-
 ## Tech Stack
 
 **Languages:**  
